@@ -8,7 +8,6 @@
   - [Regression](#r)
 - [Project Motivation](#motivation)
 - [Results](#results)
-- [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed. You can install these packages via conda or pip.
